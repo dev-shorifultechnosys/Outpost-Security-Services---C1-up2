@@ -1,0 +1,6 @@
+Logo animation update:
+- Added premium slow rotating golden border around the header logo.
+- Added matching but softer rotating golden border around the footer logo.
+- Kept the effect subtle so it feels premium rather than over-animated.
+- Added hover brightening and slower footer motion.
+- Added reduced-motion fallback for accessibility.

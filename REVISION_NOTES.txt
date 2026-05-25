@@ -1,0 +1,8 @@
+Revision completed:
+- Hero corner watermark logo changed to the official first Outpost logo and placed small at bottom-right.
+- Hero and content images are brighter with less dark overlay.
+- All service/capability cards now include image areas, not only the first three.
+- Capability/service images reveal one after another with staggered animation.
+- All major boxes now show gold border by default; hover makes the border thicker with subtle animation.
+- Why Outpost counter/reveal animation adjusted to avoid stalling.
+- Client can replace stock image URLs later from the HTML inline --photo values and hero data-slides attributes.

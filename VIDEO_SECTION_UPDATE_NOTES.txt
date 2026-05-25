@@ -1,0 +1,15 @@
+Outpost Security Services - Premium Video Section Update
+
+Updates completed:
+- Added a premium video-style section on the Home page immediately after the About section.
+- Section uses a high-end split layout: trust copy on the left and cinematic video panel on the right.
+- Added animated poster slideshow inside the video panel so it feels alive even before the real client video is added.
+- Added play-button modal placeholder. Replace this modal with the client-approved MP4/WebM or embedded video before launch.
+- Preserved existing hero image animation, reduced darkness, thick rotating gold borders, Coverage slideshow, Why Outpost crop fix, responsive layout, and official logo/badge usage.
+
+Recommended final video:
+- 20 to 45 seconds
+- MP4/WebM, compressed for web
+- Uniformed private security officers, patrol vehicle, monitored premises, Southern California coverage
+- Dark cinematic tone, no police/government confusion, no overly militarized imagery
+- End frame with Request Quote / Call Now CTA
